@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋![banner](https://user-images.githubusercontent.com/48693202/114853645-a0829380-9e01-11eb-9e6d-d346a41bb1e7.png)
 
-<!--
-**shubham200/shubham200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Shubham Kumar Singh, a MERN stack developer.I love problem solving and developing new products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills
+-React
+-Node
+-Mongo DB
+-SQL
+-C++
+-Javascript
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.linkedin.com/in/shubham-kumar-singh-8b366a158//)  
